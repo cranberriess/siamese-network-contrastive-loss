@@ -56,7 +56,7 @@ feat_vecs_a и feat_vecs_b — это векторы свойств пары и�
 
 ![image](https://github.com/user-attachments/assets/1c2db639-c94c-4bab-96af-df18ca0d6695)</br>
 
-## точность и полнота для различных значений порога, F1-мера
+## Подбор порога по F1-мере
 ![image](https://github.com/user-attachments/assets/f836b1ee-3a07-4664-9cdf-b116f4bfdffb)</br>
 
 ## Тестирование
